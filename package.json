@@ -1,6 +1,6 @@
 {
   "name": "@p8w/cals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calcuator with tsup and vite",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
