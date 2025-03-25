@@ -3,13 +3,15 @@
     "exclude": ["**/*.test.ts"],
     "compilerOptions": {
         "module": "esnext",
-        "target": "esnext",
-        "lib": ["esnext"],
+        "target": "ES6",
+        "lib": ["dom", "dom.iterable", "esnext"],
         "declaration": true,
         "strict": true,
         "moduleResolution": "node",
+        "jsx": "react-jsx",
         "skipLibCheck": true,
         "esModuleInterop": true,
+        "emitDeclarationOnly": true,
         "outDir": "dist",
         "rootDir": "src"
     }
