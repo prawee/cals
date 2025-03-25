@@ -1,0 +1,8 @@
+{
+  "name": "@p8w/cals",
+  "version": "0.0.1",
+  "description": "Calcuator with tsup and vite",
+  "main": "index.js",
+  "author": "Prawee Wongsa <prawee@hotmail.com>",
+  "license": "MIT"
+}
